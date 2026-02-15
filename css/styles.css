@@ -100,7 +100,7 @@ a {
 }
 .contacts-link {
   display: block;
-  padding: 24 0;
+  padding: 24px 0;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -152,6 +152,7 @@ a {
   border-radius: 4px;
   padding-block: 16px;
   padding-inline: 32px;
+  border: none;
 }
 
 .promo-button:hover,
